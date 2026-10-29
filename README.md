@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="assets/billcipher.gif" alt="Bill Cipher" width="360" />
+  <img src="assets/stan.gif" alt="Stanford Pines" width="360" />
 </p>
 
 <h1 align="center">absurd-physics-lab</h1>
@@ -31,7 +31,7 @@ Here are a few examples of what is inside, and how the theory gets turned into a
 ---
 
 <p align="center">
-  <img src="assets/stan.gif" alt="Stanford Pines" width="360" />
+  <img src="assets/billcipher.gif" alt="Bill Cipher" />
 </p>
 
 ## Contents
@@ -86,7 +86,7 @@ Self destructing code is another weird one. The script finds its own file path a
 ---
 
 <p align="center">
-  <img src="assets/rickandmorty.gif" alt="Rick and Morty interdimensional portal" width="420" />
+  <img src="assets/rickandmorty.gif" alt="Rick and Morty interdimensional portal" />
 </p>
 
 ## How to run
