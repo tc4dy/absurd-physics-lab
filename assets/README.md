@@ -1,0 +1,1 @@
+gif, photo vb area
