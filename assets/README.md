@@ -1,1 +1,1 @@
-gif, photo vb area
+gif, photo etc area
