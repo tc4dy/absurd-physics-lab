@@ -1,7 +1,9 @@
 
-![billcipher.gif](billcipher.gif)
+<p align="center">
+  <img src="assets/billcipher.gif" alt="Bill Cipher" width="360" />
+</p>
 
-# absurd-physics-lab
+<h1 align="center">absurd-physics-lab</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -27,6 +29,10 @@ Here is the real kicker. Python is for reading and understanding the logic. C an
 Here are a few examples of what is inside, and how the theory gets turned into actual logic.
 
 ---
+
+<p align="center">
+  <img src="assets/stan.gif" alt="Stanford Pines" width="360" />
+</p>
 
 ## Contents
 
@@ -78,6 +84,10 @@ The halting problem is a classic. The code here proves you cannot write a progra
 Self destructing code is another weird one. The script finds its own file path and deletes the file from the disk. But because the code is already loaded into memory, it keeps running. It breaks the normal rule that a file must exist to be executed.
 
 ---
+
+<p align="center">
+  <img src="assets/rickandmorty.gif" alt="Rick and Morty interdimensional portal" width="420" />
+</p>
 
 ## How to run
 
