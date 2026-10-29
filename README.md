@@ -30,9 +30,7 @@ Here are a few examples of what is inside, and how the theory gets turned into a
 
 ---
 
-<p align="center">
-  <img src="assets/billcipher.gif" alt="Bill Cipher" />
-</p>
+![Bill Cipher](assets/billcipher.gif)
 
 ## Contents
 
@@ -85,9 +83,7 @@ Self destructing code is another weird one. The script finds its own file path a
 
 ---
 
-<p align="center">
-  <img src="assets/rickandmorty.gif" alt="Rick and Morty interdimensional portal" />
-</p>
+![Rick and Morty interdimensional portal](assets/rickandmorty.gif)
 
 ## How to run
 
